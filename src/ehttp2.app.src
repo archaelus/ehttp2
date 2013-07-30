@@ -1,0 +1,13 @@
+{application, ehttp2,
+ [
+   {description, "ehttp2"}
+  ,{vsn, "0.1.0"}
+  ,{registered, []}
+  ,{applications,
+    [kernel
+     ,stdlib
+    ]}
+  ,{env,
+    [
+    ]}
+ ]}.
